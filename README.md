@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Donizete
-- 👀 I’m interested in Python programming language.
-- 🌱 I’m currently learning Python and Rust.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/donizetejr/
 
