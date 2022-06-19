@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Donizete
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning back-end.
 - 💞️ I’m looking to collaborate on share what i learned in GitHub.
 - 📫 How to reach me https://www.linkedin.com/in/donizetejr/
 
